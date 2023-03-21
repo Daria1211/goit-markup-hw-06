@@ -725,7 +725,9 @@
             letter-spacing: 0.04em;
             color: var(--customers-color);
           }
-   
+
+
+       
           .modal-form {
             display: block;
             margin-left: 24px;
@@ -736,7 +738,8 @@
             height: 40px;
             border-radius: 4px;
             opacity: 0.2;
-            /* margin-top: 4px; */
+            padding: 14px 19px;
+            padding-left: 38px;
             margin-bottom: 8px;
             border: 1px solid var(--background-color);
             outline: transparent;
@@ -788,6 +791,7 @@
             border-color: var(--link-hover-color);
           }
 
+
           .modal-form-custom-checkbox {
             display: inline-flex;
             align-items: center;
@@ -838,6 +842,7 @@
             margin-right: 8px;
             border: 1px solid var(--background-color);
           }
+
 
           .form-btn {
             min-width: 169px;
