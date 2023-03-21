@@ -817,10 +817,6 @@
             fill: var(--footer-logo-color);
           }
 
-          .modal-form-option-label {
-           
-          }
-
           .modal-form-option-span {
             width: 338px;
             height: 16px;
@@ -843,25 +839,6 @@
             border: 1px solid var(--background-color);
           }
 
-          /* .form-label-checkbox {
-            font-weight: 400;
-            font-size: 12px;
-            line-height: 1.33;
-            letter-spacing: 0.04em;
-          } */
-
-
-          /* .checkbox-policy {
-            width: 338px;
-            height: 16px;
-            font-weight: 400;
-            font-size: 12px;
-            line-height: 1.33;
-            letter-spacing: 0.04em;
-            color: #757575;
-          } */
-
-         
 
           .form-btn {
             min-width: 169px;
